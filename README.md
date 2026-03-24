@@ -1,10 +1,10 @@
-\[!\[Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=xMartin11/MSFPractica2)
 
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Sauceda Gutiérrez Jesús Martin \[23210722]; l23210722@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
