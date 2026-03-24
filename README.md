@@ -2,7 +2,7 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 
 Sauceda Gutiérrez Jesús Martin \[23210722]; l23210722@tectijuana.edu.mx
 
